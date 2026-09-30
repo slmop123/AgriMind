@@ -1,0 +1,10 @@
+{
+  "name": "AgriMind AI - مستشار الزراعة الذكي",
+  "description": "منصة زراعية ذكية متقدمة لتحليل المساحات الخضراء بالرؤية الحاسوبية، وحساب احتياجات الري، وتخطيط زراعة المحاصيل والحدائق حسب المناخ والموقع.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
